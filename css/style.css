@@ -1,0 +1,59 @@
+BODY {
+
+}
+
+#board {
+  margin-top: 25px;
+  margin-left: 25px;
+  justify-items: center;
+  align-items: center;
+}
+
+.field {
+  width: 100%;
+  height: 100%;
+  background-color: #BDBDBD;
+  font-weight: bold;
+}
+
+.clicked {
+  outline: 2px solid #7B7B79;
+}
+
+p {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+
+.one {
+  color: red;
+}
+
+.two {
+  color: blue;
+}
+
+.three {
+  color: green;
+}
+
+.four {
+  color: purple;
+}
+
+.five {
+  color: black;
+}
+
+.six {
+  color: maroon;
+}
+
+.seven {
+  color: gray;
+}
+
+.eight {
+  color: turquoise;
+}
